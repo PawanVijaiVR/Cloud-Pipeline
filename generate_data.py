@@ -1,5 +1,4 @@
-"""
-Project 2 - E-Commerce Recommendation System
+ E-Commerce Recommendation System
 Step 1: Generate realistic synthetic dataset
 """
 import pandas as pd
